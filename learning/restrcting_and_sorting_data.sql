@@ -1,0 +1,3 @@
+SELECT * 
+FROM employees
+WHERE DEPARTMENT_ID=90;
